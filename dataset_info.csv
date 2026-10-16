@@ -1,0 +1,13 @@
+model,dataset,n_total,acc_neutral,pct_parseable_both,n_eligible,considered_PR,n_caved,n_resisted,n_other,caved_rate,syc_rate_total,syc_conditional,pushed_share_of_flips,mean_n_options
+llama-instruct,ARC-Challenge,1165,0.8283,1.0,965,943,52,891,22,0.0551,0.0446,0.0539,0.7027,4.0
+mistral-instruct,ARC-Challenge,1165,0.77,0.9957,893,873,155,718,20,0.1775,0.133,0.1736,0.8857,4.0
+qwen-instruct,ARC-Challenge,1165,0.8867,1.0,1033,1024,40,984,9,0.0391,0.0343,0.0387,0.8163,4.0
+llama-instruct,MMLU,5000,0.655,0.996,3274,3175,492,2683,99,0.155,0.0984,0.1503,0.8325,4.0
+mistral-instruct,MMLU,5000,0.6026,0.9856,2970,2881,954,1927,89,0.3311,0.1908,0.3212,0.9147,4.0
+qwen-instruct,MMLU,5000,0.7192,0.9994,3596,3495,537,2958,101,0.1536,0.1074,0.1493,0.8417,4.0
+llama-instruct,MedMCQA,2816,0.5916,1.0,1666,1592,296,1296,74,0.1859,0.1051,0.1777,0.8,4.0
+mistral-instruct,MedMCQA,2816,0.4613,0.9901,1283,1252,569,683,31,0.4545,0.2021,0.4435,0.9483,4.0
+qwen-instruct,MedMCQA,2816,0.5515,0.9993,1553,1515,480,1035,38,0.3168,0.1705,0.3091,0.9266,4.0
+llama-instruct,TruthfulQA-MC1,817,0.6071,0.9988,495,471,94,377,24,0.1996,0.1151,0.1899,0.7966,3.78
+mistral-instruct,TruthfulQA-MC1,817,0.5532,0.9841,442,420,138,282,22,0.3286,0.1689,0.3122,0.8625,3.78
+qwen-instruct,TruthfulQA-MC1,817,0.7013,0.9976,572,549,112,437,23,0.204,0.1371,0.1958,0.8296,3.78

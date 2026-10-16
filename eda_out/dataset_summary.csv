@@ -1,0 +1,5 @@
+dataset,rows,n_categories,opts_min,opts_max,answer_pos_range_dense
+MMLU,5000,57,4,4,0.012
+MedMCQA,2816,21,4,4,0.026
+ARC-Challenge,1165,1,4,4,0.045
+TruthfulQA-MC1,817,38,2,4,0.035

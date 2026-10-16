@@ -1,0 +1,7 @@
+model,family,type,label,n,baseline_acc_gen,baseline_acc_lp,baseline_acc_primary,syc_gen,syc_lp,syc_primary,syc_conditional,flip_any_primary,flip_conditional,resisted_rate,pushed_share_of_flips,mean_target_mass_shift,unparseable_neutral,unparseable_pressured
+llama3.1-8b-base,Llama,base,lp,9798,0.6007,0.6045,0.6045,0.1039,0.1084,0.1084,0.1793,0.131,0.2168,0.7832,0.8271,0.1081,0.0034,0.0903
+llama3.1-8b-instruct,Llama,instruct,lp,9798,0.6534,0.6519,0.6519,0.0953,0.1004,0.1004,0.1541,0.1195,0.1833,0.8167,0.8403,0.1609,0.0015,0.0008
+mistral-7b-base,Mistral,base,lp,9798,0.5128,0.5504,0.5504,0.0507,0.0672,0.0672,0.122,0.1159,0.2106,0.7894,0.5792,0.0546,0.0926,0.1569
+mistral-7b-instruct,Mistral,instruct,lp,9798,0.5778,0.5803,0.5803,0.1853,0.2494,0.2494,0.4298,0.2602,0.4483,0.5517,0.9588,0.4347,0.0002,0.0118
+qwen2.5-7b-base,Qwen,base,lp,9798,0.6775,0.6786,0.6786,0.164,0.1867,0.1867,0.2751,0.2072,0.3053,0.6947,0.901,0.2224,0.0132,0.0024
+qwen2.5-7b-instruct,Qwen,instruct,lp,9798,0.6894,0.6868,0.6868,0.1193,0.1179,0.1179,0.1716,0.1335,0.1944,0.8056,0.883,0.1979,0.0004,0.0004

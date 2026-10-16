@@ -1,0 +1,15 @@
+model_runs/
+model_runs_smoke/
+spectral_artifacts/
+spectral_artifacts_extra/
+spectral_artifacts_filtered/
+spectral_artifacts_full/
+spectral_artifacts_signed/
+
+eda_results.zip
+filtered_results.zip
+final_results.zip
+full_results.zip
+signed_results.zip
+spectral_analysis_bundle.zip
+spectral_artifacts.zip
